@@ -3,11 +3,16 @@
     "description": "Maybe the fastest router for PHP.",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Tianle Xu",
-            "email": "xtl@xtlsoft.top"
+    "authors": [{
+        "name": "Tianle Xu",
+        "email": "xtl@xtlsoft.top"
+    }],
+    "autoload": {
+        "psr-4": {
+            "ExtremeRoute\\": "./src/"
         }
-    ],
-    "require": {}
+    },
+    "require": {
+        "php": ">=7.0"
+    }
 }
