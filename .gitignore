@@ -1,0 +1,8 @@
+/vendor/
+
+# I commit composer.lock now
+#
+# composer.lock
+
+/.vscode/
+dev-*.php

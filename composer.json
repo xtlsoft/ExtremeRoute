@@ -1,0 +1,13 @@
+{
+    "name": "xtlsoft/extreme-route",
+    "description": "Maybe the fastest router for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tianle Xu",
+            "email": "xtl@xtlsoft.top"
+        }
+    ],
+    "require": {}
+}
